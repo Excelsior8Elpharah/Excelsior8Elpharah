@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hello World! I'm Raphael
 
-# texto1
+![gif cat](https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU)
 
 <!--
 **Excelsior8Elpharah/Excelsior8Elpharah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
