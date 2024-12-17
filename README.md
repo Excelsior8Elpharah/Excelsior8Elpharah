@@ -1,6 +1,6 @@
 ## Hello World! I'm Raphael
 
-![gif cat](https://giphy.com/gifs/cat-computer-mcsPU3SkKrYDdW3aAU)
+![gif cat](https://www.google.com/imgres?q=%20gatinho%20no%20pc&imgurl=https%3A%2F%2Fwww.senhormercado.com.br%2Fwp-content%2Fuploads%2Fgato-computador.jpg&imgrefurl=https%3A%2F%2Fwww.senhormercado.com.br%2Fvoce-tem-a-personalidade-de-um-trader%2Fgato-computador%2F&docid=reN-DX26vysQfM&tbnid=mbpEhYySdA8koM&vet=12ahUKEwjkjsf6_K-KAxW5LLkGHT2pE7gQM3oECG8QAA..i&w=556&h=434&hcb=2&ved=2ahUKEwjkjsf6_K-KAxW5LLkGHT2pE7gQM3oECG8QAA)
 
 <!--
 **Excelsior8Elpharah/Excelsior8Elpharah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
