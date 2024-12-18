@@ -52,4 +52,5 @@ excelsior8elpharah@email.com<br>
 
 ![Raphael stats](https://github-readme-stats.vercel.app/api?username=Excelsior8Elpharah&shw_icons=true&theme=radical)
 
+![stats](https://github-readme-stats.vercel.app/api/top-lang/?username=Excelsior8Elpharah&layout=compact&langs_count=7&theme=dracula)
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-lang/?username=Excelsior8Elpharah&layout=compact&langs_count=7&theme=dracula"/>
