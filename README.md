@@ -1,5 +1,7 @@
 ## Hello World! I'm Raphael
 
+![gif gatinho](https://www.google.com/imgres?q=gif%20do%20gatinho%20no%20pc&imgurl=https%3A%2F%2Fmedia0.giphy.com%2Fmedia%2FmcsPU3SkKrYDdW3aAU%2Fgiphy.gif%3Fcid%3D6c09b952eszdvn67t9k3qrt6nzq09if4x5kh2hhw0r7x5l19%26ep%3Dv1_gifs_search%26rid%3Dgiphy.gif%26ct%3Dg&imgrefurl=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcat-and-computer&docid=ClrHXg14R4CG_M&tbnid=oXqLsx51jOe5WM&vet=12ahUKEwips-aAhbCKAxXLLLkGHUmpB5YQM3oECBwQAA..i&w=250&h=250&hcb=2&ved=2ahUKEwips-aAhbCKAxXLLLkGHUmpB5YQM3oECBwQAA)
+
 Nome: Raphael
 Idiomas: Português (Nativo) | Inglês (B1 Avançado)
 Filosofia de Vida: Cristão ✝️
