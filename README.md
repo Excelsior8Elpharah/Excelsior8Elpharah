@@ -1,6 +1,6 @@
 ## Hello World! I'm Raphael
 
-![gif gatinho](https://tenor.com/pt-BR/view/cat-typing-typing-on-computer-computer-work-laptop-gif-21481919)
+![gif gatinho](https://media1.tenor.com/m/bCfpwMjfAi0AAAAd/cat-typing.gif)
 
 Nome: Raphael
 Idiomas: Português (Nativo) | Inglês (B1 Avançado)
