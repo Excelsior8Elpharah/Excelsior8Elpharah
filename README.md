@@ -36,7 +36,7 @@ Logística Reversa e Sustentável<br>
 💼 Experiência Profissional<br>
 Operações Logísticas e Produção<br>
 Gestão de Processos e Projetos Ágeis<br>
-Desenvolvimento de Projetos de Expansão e Diagnóstico de Redes WAN Seguras<br>
+
 🚀 Projetos em Destaque<br>
 🌐 Diagnóstico e Expansão de Redes Seguras WAN: Design e análise de conectividade para empresas de médio porte.<br>
 📈 Aplicação de MySQL e Modelagem DER: Projeto de banco de dados aplicados à gestão de informação.<br>
